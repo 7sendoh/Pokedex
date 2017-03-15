@@ -190,7 +190,6 @@
 				TargetAttributes = {
 					C793F9331E24558500177E58 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = PL93RW3X63;
 						LastSwiftMigration = 0820;
 						ProvisioningStyle = Automatic;
 					};
@@ -412,10 +411,9 @@
 			baseConfigurationReference = EFC6C84BCFE6F58F95B570EF /* Pods-pokedex3.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = PL93RW3X63;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = pokedex3/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ringoapps.pokedex3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -426,10 +424,9 @@
 			baseConfigurationReference = 77F5A6C59593E233595ECB46 /* Pods-pokedex3.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = PL93RW3X63;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = pokedex3/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ringoapps.pokedex3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
